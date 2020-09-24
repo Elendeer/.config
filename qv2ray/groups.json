@@ -1,0 +1,21 @@
+{
+    "000000000000": {
+        "connections": [
+        ],
+        "creationDate": 1600911267,
+        "displayName": "Default Group",
+        "isSubscription": false,
+        "lastUpdatedDate": 1600911267,
+        "routeConfigId": "null",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "",
+            "updateInterval": 10
+        }
+    }
+}
