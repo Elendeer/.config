@@ -1,2 +1,16 @@
 {
+    "ntzvravabyam": {
+        "creationDate": 1601079654,
+        "displayName": "_config.json",
+        "importSource": 1,
+        "lastConnected": 1601080378,
+        "lastUpdatedDate": 1601079654,
+        "latency": 241,
+        "stats": [
+            {
+                "downLinkData": 16216538,
+                "upLinkData": 263518
+            }
+        ]
+    }
 }
